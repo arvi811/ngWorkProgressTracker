@@ -1,0 +1,19 @@
+.data-container {
+  position: absolute;
+  top: 12em;
+  left: 16em;
+  height: 48rem;
+  width: 120rem;
+  background: rgb(108, 98, 98);
+  border-radius: 20px;
+}
+
+.items {
+  height: 15%;
+  width: 100%;
+  position: absolute;
+  top: 10%;
+  background-color: #fff;
+  
+  color: black;
+}
